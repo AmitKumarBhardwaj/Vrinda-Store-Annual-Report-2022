@@ -1,7 +1,7 @@
 # Vrinda-Store-Annual-Report-2022
 
 ## Objective:
-Sales analysis of Vrinda Store for the year of 2022.
+Vrinda store wants to create annual reports for the previous year (2022) so that Vrinda can understand their customers and grow sales in 2023.
 
 ## Dataset:
 We are given data that are present in a sheets with the name Vrinda Store <br/>
@@ -12,11 +12,14 @@ MS Excel
 
 ## Summary:
 This project is done in three stages: 
-1) Data Cleaning:
-Data cleansing is performed by using excel functions. For example we created a new column with the name of Age Group.
-Removed duplicates.
-Data cleaning.
+1) Data Cleaning: 
+Unstructured data were cleaned and also removed null values and cleaning is performed by using excel functions. For example we created a new column with the name of Age Group.
+ Data processing :
+In this step, i used some excel functions like IF function for data processing and extract month from date by using TEXT function.
+3) Data Analysis :
+Created pivot tables.
+4) Data Visualization :
+Used various charts for data Visualization  like bar chart, column chart , pie chart etc..
 
-2) Data Analysis: Data is analyzed by using pivot table and excel functions.
 
-3) Generate Report: A report is created as per the business requirements.
+
