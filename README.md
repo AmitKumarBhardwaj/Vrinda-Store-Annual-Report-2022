@@ -27,8 +27,8 @@ Used various charts for data Visualization  like bar chart, column chart , pie c
 3. Who purchased more? Men or womem? 
 4. What are different order status in 2022? 
 5. list of top 10 states contributing to the sales 
-6. Relation between age and gender based on Number 
-7. Which channel is contributing to maximum sales 
+6. Relation between age and gender based on Number.
+7. Which channel is contributing to maximum sales? 
 8. Highest selling category?
 
 
